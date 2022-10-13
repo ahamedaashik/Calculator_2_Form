@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\bin\Debug\calculator_2.exe
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\bin\Debug\calculator_2.pdb
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\calculator_2.Form1.resources
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\calculator_2.Properties.Resources.resources
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\calculator_2.exe
+C:\Users\Student\Desktop\0019_Aashik\calculator_2\calculator_2\obj\x86\Debug\calculator_2.pdb
